@@ -1,6 +1,4 @@
-### Olá pessoal! 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigobrgo)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas](https://github-readme-stats.vercel.app/api/wakatime?username=rodrigobrgo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rodrigobrgo/rodrigobrgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
