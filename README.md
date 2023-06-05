@@ -1,5 +1,5 @@
 # Rodrigo Damacena
-Desenvolvedor Front-end: HTML, CSS, JS, WordPress e praticando Ruby on Rails 
+Desenvolvedor Front-end: HTML, CSS, JS, WordPress
 
 # Links
 - [Twitter](https://twitter.com/rodrigobrgo)
